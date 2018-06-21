@@ -8,7 +8,7 @@
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1>
-       Setting Homepage
+        Article
         <small>Version 1.0.0</small>
       </h1>
       <ol class="breadcrumb">
@@ -23,32 +23,39 @@
 			<div class="col-md-12">
 				<div class="box box-success">
 					<div class="box-header with-border">
-						<h3 class="box-title">Media Sosial</h3>
+						<h3 class="box-title">Add Media Sosial</h3>
                         <span>
-                            <a href="setting-homepage-Addmedia.php" class="pull-right btn btn-success">Add Media Sosial</a>
+                         
                         </span>
                         
                         
 					</div>
                     <div class="box-body with-border">
                         <div class="col-xs-12">
-                              <table class="table table-hover ">
-                                <tr>
-                                  <th>No</th>
-                                  <th>Media Sosial</th>
-								  <th>Link</th>
-                                  <th>Action</th>
-                                </tr>
-                                <tr>
-                                  <td>183</td>
-                                  <td>Facebook</td>
-                                  <td>https://blabla.com</td>
-                                  <td>
-								  <a href="#" class="btn btn-info"><i class="fa fa-trash"></i> Update</a>
-								  <a href="#" class="btn btn-danger"><i class="f a fa-trash"></i> Delete</a></td>
-                                </tr>
-
-                              </table>
+                              <form class="form-horizontal">
+								<div class="box-body">
+									<div class="form-group">
+										<label class="col-sm-2 control-label">Media Sosial</label>
+										<div class="col-sm-10">
+											<input type="text" class="form-control" placeholder="Name">
+										</div>
+									</div>
+                                    <div class="form-group">
+										<label class="col-sm-2 control-label">Link</label>
+										<div class="col-sm-10">
+											<input type="text" class="form-control" placeholder="link">
+										</div>
+									</div>
+								</div>
+                               
+									
+								<div class="box-footer">
+					
+									<a href="#" class=" btn btn-warning">Back</a>
+									<!-- <button type="submit" class="btn btn-default">Cancel</button> -->
+									<button type="submit" class="btn btn-success pull-right">Submit</button>
+								</div>
+							</form>
                             </div>
                             <!-- /.box-body -->
                     </div>

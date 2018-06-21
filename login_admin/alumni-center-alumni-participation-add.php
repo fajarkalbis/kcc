@@ -6,14 +6,14 @@
 <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
     <!-- Content Header (Page header) -->
-    <section class="content-header">
+     <section class="content-header">
       <h1>
-        Article
+        Alumni Center
         <small>Version 1.0.0</small>
       </h1>
       <ol class="breadcrumb">
-        <li><a href="#"><i class="fa fa-dashboard"></i>  Article</a></li>
-        <li class="active">Article</li>
+        <li><a href="#"><i class="fa fa-dashboard"></i>  Alumni Center</a></li>
+        <li class="active">Events</li>
       </ol>
     </section>
 
@@ -23,7 +23,7 @@
 			<div class="col-md-12">
 				<div class="box box-success">
 					<div class="box-header with-border">
-						<h3 class="box-title">update Article</h3>
+						<h3 class="box-title">Add Events</h3>
                         <span>
                          
                         </span>
@@ -34,46 +34,36 @@
                         <div class="col-xs-12">
                               <form class="form-horizontal">
 								<div class="box-body">
-									<div class="form-group">
-										<label class="col-sm-2 control-label">date</label>
+                                    <div class="form-group">
+										<label class="col-sm-2 control-label">Date</label>
 										<div class="col-sm-10">
-											<input type="date" class="form-control" placeholder="Name">
+											<input type="date" class="form-control" placeholder="date">
+										</div>
+									</div>
+                                   <div class="form-group">
+										<label class="col-sm-2 control-label">Title</label>
+										<div class="col-sm-10">
+											<input type="text" class="form-control" placeholder="Name">
 										</div>
 									</div>
                                     <div class="form-group">
-										<label class="col-sm-2 control-label">title</label>
+										<label class="col-sm-2 control-label">Speaker</label>
 										<div class="col-sm-10">
-											<input type="text" class="form-control" placeholder="">
-										</div>
-									</div>
-                                     <div class="form-group">
-										<label class="col-sm-2 control-label">Category</label>
-										<div class="col-sm-10">
-								            <input type="radio" name="artikel" value="career">  <label> Career Article </label>
-                                            <input type="radio" name="artikel" value="alumni">  <label> Alumni Article </label>
-                                            
+											<input type="text" class="form-control" placeholder="Name">
 										</div>
 									</div>
                                     <div class="form-group">
-									<label class="col-sm-2 control-label">Article</label>
+										<label class="col-sm-2 control-label">Location</label>
 										<div class="col-sm-10">
-											<form>
-											<textarea id="editor1" name="editor1" rows="10" cols="80">
-																	This is my textarea to be replaced with CKEditor.
-											</textarea>
-											</form>
+											<input type="text" class="form-control" placeholder="Name">
 										</div>
 									</div>
+
 								</div>
-                                <script>
-                                $(document).ready(function() {
-                                    $('.selek').select2();
-                                });
-                                </script>
-									
+                                
 								<div class="box-footer">
 					
-									<a href="article.php" class=" btn btn-warning">Back</a>
+									<a href="alumni-center-alumni-participation.php" class=" btn btn-warning">Back</a>
 									<!-- <button type="submit" class="btn btn-default">Cancel</button> -->
 									<button type="submit" class="btn btn-success pull-right">Submit</button>
 								</div>

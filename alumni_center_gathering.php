@@ -30,7 +30,7 @@
 							  <td>17 March 2017</td>
 							  <td>13:00 - 17:00 WIB	</td>
 							  <td>Library, Kalbis Instiute</td>
-							  <td><a href="View" data-toggle="modal" data-target=".alumnigathering-modal">Detail</a></td>
+							  <td><a href="detail_alumni_gathering.php" >Detail</a></td>
 							</tr>
 							<tr>
 							  <th scope="row">2</th>
@@ -38,14 +38,14 @@
 							  <td>17 March 2016</td>
 							  <td>13:00 - 17:00 WIB	</td>
 							  <td>Library, Kalbis Instiute</td>
-							 <td><a href="View" data-toggle="modal" data-target=".alumnigathering-modal">Detail</a></td>
+							 <td><a href="detail_alumni_gathering.php" >Detail</a></td>
 							</tr><tr>
 							  <th scope="row">3</th>
 							  <td>Gathering 2015 </td>
 							  <td>17 March 2015</td>
 							  <td>13:00 - 17:00 WIB	</td>
 							  <td>Library, Kalbis Instiute</td>
-							  <td><a href="View" data-toggle="modal" data-target=".alumnigathering-modal">Detail</a></td>
+							  <td><a href="detail_alumni_gathering.php" >Detail</a></td>
 							</tr>
 							<tr>
 							  <th scope="row">4</th>
@@ -53,7 +53,7 @@
 							  <td>17 March 2014</td>
 							  <td>13:00 - 17:00 WIB	</td>
 							  <td>Library, Kalbis Instiute</td>
-							  <td><a href="View" data-toggle="modal" data-target=".alumnigathering-modal">Detail</a></td>
+							 <td><a href="detail_alumni_gathering.php" >Detail</a></td>
 							</tr>
 						  </tbody>
 					</table>

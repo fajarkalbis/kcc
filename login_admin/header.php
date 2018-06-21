@@ -19,8 +19,9 @@
         page. However, you can choose any other skin. Make sure you
         apply the skin class to the body tag so the changes take effect. -->
   <link rel="stylesheet" href="../core/dist/css/skins/skin-green-light.min.css">
-  
-
+  <link rel="stylesheet" href="../core/bower_components/select2/dist/css/select2.min.css">
+ <link rel="stylesheet" href="../core/plugins/timepicker/bootstrap-timepicker.min.css">
+    
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
   <style>

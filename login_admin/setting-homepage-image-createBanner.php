@@ -44,6 +44,41 @@
 											<input type="file">
 										</div>
 									</div>
+                                    <div class="form-group">
+										<label class="col-sm-2 control-label">Additional From</label>
+										<div class="col-sm-10" >
+                                            <div class="col-sm-3">
+                                                <label>Artikel</label>
+                                                <select class="selek select2" name="state" style="width:150px;">
+                                                    <option value="AL">Alabama</option>
+                                                    <option value="WY">Wyoming</option>
+                                                </select>
+                                            </div>
+                                            <div class="col-sm-3">
+                                                 <label>Seminar</label>
+                                                <select class="selek select2" name="state" style="width:150px;">
+                                                    <option value="AL">Alabama</option>
+                                                    <option value="WY">Wyoming</option>
+                                                </select>
+                                            </div>
+                                            <div class="col-sm-3">
+                                                <label>Job Fair</label>
+                                                <select class="selek select2" name="state" style="width:150px;">
+                                                    <option value="AL">Alabama</option>
+                                                    <option value="WY">Wyoming</option>
+                                                </select>
+                                            </div>
+                                            <div class="col-sm-3">
+                                                <label>Events</label>
+                                                <select class="selek select2" name="state" style="width:150px;">
+                                                    <option value="AL">Alabama</option>
+                                                    <option value="WY">Wyoming</option>
+                                                </select>
+                                            </div>
+										</div>
+									</div>
+                                    
+                                  
                                     
 								</div>
                                 <script>

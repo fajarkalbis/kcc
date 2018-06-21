@@ -8,12 +8,12 @@
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1>
-       Setting Homepage
+        Career Center
         <small>Version 1.0.0</small>
       </h1>
       <ol class="breadcrumb">
-        <li><a href="#"><i class="fa fa-dashboard"></i>  Setting Homepage</a></li>
-        <li class="active">Media Sosial</li>
+        <li><a href="#"><i class="fa fa-dashboard"></i>  Career Center</a></li>
+        <li class="active">Seminar Career Development</li>
       </ol>
     </section>
 
@@ -23,9 +23,9 @@
 			<div class="col-md-12">
 				<div class="box box-success">
 					<div class="box-header with-border">
-						<h3 class="box-title">Media Sosial</h3>
+						<h3 class="box-title">Seminar Career Development List</h3>
                         <span>
-                            <a href="setting-homepage-Addmedia.php" class="pull-right btn btn-success">Add Media Sosial</a>
+                            <a href="career-center-seminar-career-development-add.php" class="pull-right btn btn-success">Add Seminar Career Development</a>
                         </span>
                         
                         
@@ -34,20 +34,22 @@
                         <div class="col-xs-12">
                               <table class="table table-hover ">
                                 <tr>
-                                  <th>No</th>
-                                  <th>Media Sosial</th>
-								  <th>Link</th>
+                                  <th>ID</th>
+                                  <th>Title</th>
+                                  <th>Date Publish</th>
+                                  <th>Status</th>
                                   <th>Action</th>
                                 </tr>
                                 <tr>
                                   <td>183</td>
-                                  <td>Facebook</td>
-                                  <td>https://blabla.com</td>
-                                  <td>
-								  <a href="#" class="btn btn-info"><i class="fa fa-trash"></i> Update</a>
-								  <a href="#" class="btn btn-danger"><i class="f a fa-trash"></i> Delete</a></td>
+                                  <td>dawdawd</td>
+                                  <td>11-7-2014</td>
+                                  <td><span class="label label-primary">Upload</span></td>
+                                  
+								  <td>  <a href="career-center-seminar-career-development-update.php" class="btn btn-info"><i class="fa fa-trash"></i> Update</a>
+								  <a href="#" class="btn btn-danger"><i class="fa fa-trash"></i> Delete</a></td>
                                 </tr>
-
+                                
                               </table>
                             </div>
                             <!-- /.box-body -->

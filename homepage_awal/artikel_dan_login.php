@@ -20,29 +20,26 @@
 			<div class="tab-content">
 			  <div class="tab-pane active" id="seminar" role="tabpanel">
 				<div class="list-group">
-				  <a href="#" class="list-group-item list-group-item-action">17/05/2018 : Change the World Through Education</a>
-				  <a href="#" class="list-group-item list-group-item-action">20/03/2018 : Improve your Self for Selling </a>
-				  <a href="#" class="list-group-item list-group-item-action">02/02/2018 : Career Inspiration From Mr. M Fajar Sidik</a>
-				  <a href="#" class="list-group-item list-group-item-action">01/01/2018 : Career Inspiration </a>
-				  <a href="#" class="list-group-item list-group-item-action">01/12/2017 : Career Inspiration</a>
+				  <a href="detail_alumni_events.php" class="list-group-item list-group-item-action">17/05/2018 : Change the World Through Education</a>
+				  <a href="detail_alumni_events.php" class="list-group-item list-group-item-action">20/03/2018 : Improve your Self for Selling </a>
+				  <a href="detail_alumni_events.php" class="list-group-item list-group-item-action">02/02/2018 : Career Inspiration From Mr. M Fajar Sidik</a>
+				  <a href="detail_alumni_events.php" class="list-group-item list-group-item-action">01/01/2018 : Career Inspiration </a>
+				  <a href="detail_alumni_events.php" class="list-group-item list-group-item-action">01/12/2017 : Career Inspiration</a>
 				</div>
 			  </div>
 			  <div class="tab-pane" id="jobfair" role="tabpanel">
 				<div class="list-group">
-				  <a href="#" class="list-group-item list-group-item-action">17/05/2018 : Career 2018</a>
-				  <a href="#" class="list-group-item list-group-item-action">17/05/2017 : Career 2017</a>
-				  <a href="#" class="list-group-item list-group-item-action">17/05/2016 : Career 2016</a>
-				  <a href="#" class="list-group-item list-group-item-action">17/05/2015 : Career 2015</a>
-				  <a href="#" class="list-group-item list-group-item-action">17/05/2014 : Career 2014</a>
+				  <a href="detail_job_fair.php" class="list-group-item list-group-item-action">17/05/2018 : Job Fair Career 2018</a>
+				  <a href="detail_job_fair.php" class="list-group-item list-group-item-action">17/05/2017 : Job Fair Career 2017</a>
+				  <a href="detail_job_fair.php" class="list-group-item list-group-item-action">17/05/2016 : Job Fair Career 2016</a>
+				  <a href="detail_job_fair.php" class="list-group-item list-group-item-action">17/05/2015 : Job Fair Career 2015</a>
+				  <a href="detail_job_fair.php" class="list-group-item list-group-item-action">17/05/2014 : Job Fair Career 2014</a>
 				</div>
 			  </div>
 			  <div class="tab-pane" id="events" role="tabpanel">
 				<div class="list-group">
-				  <a href="#" class="list-group-item list-group-item-action">17/05/2018 : [PT ABC] - Programmer</a>
-				  <a href="#" class="list-group-item list-group-item-action">17/05/2018 : [PT ABC] - Programmer</a>
-				  <a href="#" class="list-group-item list-group-item-action">17/05/2018 : [PT ABC] - Programmer</a>
-				  <a href="#" class="list-group-item list-group-item-action">17/05/2018 : [PT ABC] - Programmer</a>
-				  <a href="#" class="list-group-item list-group-item-action">17/05/2018 : [PT ABC] - Programmer</a>
+				  <a href="" class="list-group-item list-group-item-action">17/05/2018 : [PT ABC] - Programmer</a>
+				  
 				</div>
 			  </div>
 			</div>

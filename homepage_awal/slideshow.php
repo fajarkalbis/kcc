@@ -9,19 +9,19 @@
           <!-- Slide One - Set the background image for this slide in the line below -->
           <div class="carousel-item active" style="background-image: url('homepage_awal/img/banner1.jpg')">
             <div class="carousel-caption d-none d-md-block">
-              <h3><a href="#">Slider One</a></h3>
+              <h3><a href="detail_slideshow.php">Slider One</a></h3>
             </div>
           </div>
           <!-- Slide Two - Set the background image for this slide in the line below -->
           <div class="carousel-item" style="background-image: url('homepage_awal/img/banner4.jpg')">
             <div class="carousel-caption d-none d-md-block">
-              <h3><a href="#">Slider Two</a></h3>
+              <h3><a href="detail_slideshow.php">Slider Two</a></h3>
             </div>
           </div>
           <!-- Slide Three - Set the background image for this slide in the line below -->
           <div class="carousel-item" style="background-image: url('homepage_awal/img/banner3.jpg')">
             <div class="carousel-caption d-none d-md-block">
-              <h3><a href="#">Slide Three</a></h3> 
+              <h3><a href="detail_slideshow.php">Slide Three</a></h3> 
             </div>
           </div>
         </div>

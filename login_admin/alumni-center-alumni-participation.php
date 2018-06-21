@@ -8,12 +8,12 @@
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1>
-       Setting Homepage
+        Alumni Center
         <small>Version 1.0.0</small>
       </h1>
       <ol class="breadcrumb">
-        <li><a href="#"><i class="fa fa-dashboard"></i>  Setting Homepage</a></li>
-        <li class="active">Media Sosial</li>
+        <li><a href="#"><i class="fa fa-dashboard"></i>  Alumni Center</a></li>
+        <li class="active">Events</li>
       </ol>
     </section>
 
@@ -23,9 +23,9 @@
 			<div class="col-md-12">
 				<div class="box box-success">
 					<div class="box-header with-border">
-						<h3 class="box-title">Media Sosial</h3>
+						<h3 class="box-title">Events List</h3>
                         <span>
-                            <a href="setting-homepage-Addmedia.php" class="pull-right btn btn-success">Add Media Sosial</a>
+                            <a href="alumni-center-alumni-participation-add.php" class="pull-right btn btn-success">Add Event</a>
                         </span>
                         
                         
@@ -34,20 +34,26 @@
                         <div class="col-xs-12">
                               <table class="table table-hover ">
                                 <tr>
-                                  <th>No</th>
-                                  <th>Media Sosial</th>
-								  <th>Link</th>
+                                  <th>ID</th>
+                                  <th>Date</th>
+                                  <th>Title</th>
+                                  <th>Speaker</th>
+                                  <th>Location</th>
                                   <th>Action</th>
                                 </tr>
                                 <tr>
-                                  <td>183</td>
-                                  <td>Facebook</td>
-                                  <td>https://blabla.com</td>
-                                  <td>
-								  <a href="#" class="btn btn-info"><i class="fa fa-trash"></i> Update</a>
-								  <a href="#" class="btn btn-danger"><i class="f a fa-trash"></i> Delete</a></td>
+                                    <td>183</td>
+                                    <td>11-7-2014</td>
+                                    <td>dawdawd</td>
+                                    <td>andy</td>
+                                    <td>jkrt</td>
+                                    
+                                  
+                                    
+								  <td>  <a href="alumni-center-alumni-participation-update.php" class="btn btn-info"><i class="fa fa-trash"></i> Update</a>
+								  <a href="#" class="btn btn-danger"><i class="fa fa-trash"></i> Delete</a></td>
                                 </tr>
-
+                                
                               </table>
                             </div>
                             <!-- /.box-body -->

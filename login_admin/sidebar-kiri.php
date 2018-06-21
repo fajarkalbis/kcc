@@ -40,8 +40,8 @@
           </a>
           <ul class="treeview-menu">
             <li><a href="#">Job Vacancy</a></li>
-			<li><a href="#">Seminar Career Development</a></li>
-			<li><a href="#">Job Fair</a></li>
+			<li><a href="career-center-seminar-career-development.php">Seminar Career Development</a></li>
+			<li><a href="career-center-job-fair.php">Job Fair</a></li>
           </ul>
         </li>
 		<li class="treeview">
@@ -52,8 +52,10 @@
           </a>
           <ul class="treeview-menu">
             <li><a href="tracer.php">Tracer Study</a></li>
-			<li><a href="#">Alumni Testimony</a></li>
-			<li><a href="#">Events</a></li>
+			<li><a href="alumni-center-alumni-testimony.php">Alumni Testimony</a></li>
+            <li><a href="alumni-center-alumni-gathering.php">Alumni Gathering</a></li>
+			<li><a href="alumni-center-alumni-participation.php">Alumni Participation</a></li>
+            <li><a href="alumni-center-alumni-contribution.php">Alumni Contribution</a></li>
           </ul>
         </li>
 		
